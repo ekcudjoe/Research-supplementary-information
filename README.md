@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <th style="width:25%">University</th>
-    <th style="width:25%">Technology dimension</th>
-    <th style="width:25%">Organizational dimension</th>
-    <th style="width:25%">Environmental dimension</th>
+    <th style="width:10%">University</th>
+    <th style="width:30%">Technology dimension</th>
+    <th style="width:30%">Organizational dimension</th>
+    <th style="width:30%">Environmental dimension</th>
   </tr>
 
   <tr>
